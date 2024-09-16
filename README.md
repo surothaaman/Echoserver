@@ -1,5 +1,5 @@
 # EX-1.Echoserver
-## Date:13/02/2024
+## Date:
 Echo server and client using python socket
 # AIM:
 To develop a simple webserver to serve html programming pages.
